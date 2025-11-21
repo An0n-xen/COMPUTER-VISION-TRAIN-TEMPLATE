@@ -8,4 +8,4 @@ They breakdown as follows:
 - `train.py` - a file to leverage all other files and train a target PyTorch model.
 - `utils.py`- a file dedicated to helpful utility functions.
 
-**Extra**: predictions.py - a file for making predictions with a trained PyTorch model and input image (the main 
+**Extra**: predictions.py - a file for making predictions with a trained PyTorch model and input image
